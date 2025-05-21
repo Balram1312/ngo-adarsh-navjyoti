@@ -1,4 +1,7 @@
 {
+  "header": {
+    "title": "Aadarsh Navjyoti"
+  },
   "navigation": {
     "home": "Home",
     "about": "About Us",
@@ -11,12 +14,12 @@
     "donateButton": "Donate Now",
     "workButton": "See Our Work",
     "impactTitle": "Our Impact",
-    "impactEducation": "Education Programs",
-    "impactEducationText": "Providing quality education to over 500 children in rural Rajasthan",
-    "impactHealth": "Health Initiatives",
-    "impactHealthText": "Conducting regular health camps serving 1,000+ villagers annually",
-    "impactEmpowerment": "Women Empowerment",
-    "impactEmpowermentText": "Supporting 250+ women through skill development and livelihood programs",
+    "impactSkillDevelopment": "Skill Development",
+    "impactSkillDevelopmentText": "Supporting 250+ women and youth through skill development and livelihood programs",
+    "impactWomenEmpowerment": "Women Empowerment",
+    "impactWomenEmpowermentText": "Creating opportunities for women to become self-reliant through training and community initiatives",
+    "impactSocialMedicalServices": "Social Medical Services",
+    "impactSocialMedicalServicesText": "Conducting regular health camps and providing medical support to over 1,000 villagers annually",
     "updateTitle": "Recent Updates",
     "updateDate": "May 15, 2025",
     "updateText": "Successfully completed our summer education camp benefiting 100 children from marginalized communities",
@@ -80,6 +83,8 @@
     "transparency": "We maintain complete transparency in the utilization of funds"
   },
   "footer": {
+    "title": "Aadarsh Navjyoti",
+    "subTitle": "Empowering rural communities through skill development, women's empowerment, and accessible healthcare.",
     "contact": "Contact Info",
     "links": "Quick Links",
     "subscribe": "Stay Updated",
