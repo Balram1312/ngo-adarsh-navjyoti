@@ -1,0 +1,92 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "gallery": "Gallery",
+    "donate": "Donate"
+  },
+  "home": {
+    "tagline": "Empowering Rural Communities",
+    "subTagline": "Through Education, Health, and Social Empowerment",
+    "donateButton": "Donate Now",
+    "workButton": "See Our Work",
+    "impactTitle": "Our Impact",
+    "impactEducation": "Education Programs",
+    "impactEducationText": "Providing quality education to over 500 children in rural Rajasthan",
+    "impactHealth": "Health Initiatives",
+    "impactHealthText": "Conducting regular health camps serving 1,000+ villagers annually",
+    "impactEmpowerment": "Women Empowerment",
+    "impactEmpowermentText": "Supporting 250+ women through skill development and livelihood programs",
+    "updateTitle": "Recent Updates",
+    "updateDate": "May 15, 2025",
+    "updateText": "Successfully completed our summer education camp benefiting 100 children from marginalized communities",
+    "testimonialTitle": "Voices from the Community",
+    "testimonialText": "The skill development program has transformed my life. I now earn a living through handicrafts and support my family's education.",
+    "testimonialAuthor": "Geeta Devi, Program Beneficiary"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Committed to Sustainable Rural Development",
+    "history": "Our History",
+    "historyText": "Aadarsh Navjyoti Vikas Sansthan was established in 2014 with a vision to create sustainable development opportunities in rural Rajasthan. Registered under the Rajasthan Societies Registration Act, 1958 (Reg. No. 161/Jodhpur/2014-15, dated October 13, 2014), we began with small educational initiatives in Jodhpur district.",
+    "mission": "Our Mission",
+    "missionText": "To uplift rural communities through holistic development approaches focusing on education, healthcare, and socio-economic empowerment.",
+    "vision": "Our Vision",
+    "visionText": "A society where rural communities have equal access to quality education, healthcare, and opportunities for sustainable livelihoods.",
+    "contact": "Contact Us",
+    "location": "Location",
+    "locationText": "Jodhpur, Rajasthan, India",
+    "email": "Email",
+    "phone": "Phone",
+    "formName": "Your Name",
+    "formEmail": "Your Email",
+    "formSubject": "Subject",
+    "formMessage": "Message",
+    "formSubmit": "Submit",
+    "formSuccess": "Thank you for your message. We'll respond shortly.",
+    "formError": "There was an error sending your message. Please try again."
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "Glimpses of Our Work",
+    "categories": {
+      "all": "All",
+      "education": "Education",
+      "health": "Health Camps",
+      "women": "Women Empowerment",
+      "community": "Community Events"
+    },
+    "loadMore": "Load More"
+  },
+  "donate": {
+    "title": "Support Our Cause",
+    "subtitle": "Your Contribution Makes a Difference",
+    "impactTitle": "Your Impact",
+    "impactText": "Your donation directly supports rural communities in Rajasthan through our various programs:",
+    "impactList": {
+      "education": "₹500 provides educational materials for one child for a month",
+      "health": "₹1000 supports health check-ups for five families",
+      "meals": "₹2000 provides nutritious meals for 20 children for a week"
+    },
+    "oneTime": "One-time Donation",
+    "monthly": "Monthly Sponsorship",
+    "amount": "Amount",
+    "custom": "Custom Amount",
+    "childSponsorship": "Child Sponsorship Program",
+    "childSponsorshipText": "Sponsor a child's education, healthcare, and nutrition for ₹500/month",
+    "sponsorButton": "Sponsor a Child",
+    "donateButton": "Donate",
+    "taxBenefit": "All donations are eligible for tax benefits under Section 80G",
+    "transparency": "We maintain complete transparency in the utilization of funds"
+  },
+  "footer": {
+    "contact": "Contact Info",
+    "links": "Quick Links",
+    "subscribe": "Stay Updated",
+    "subscribeText": "Subscribe to our newsletter",
+    "emailPlaceholder": "Your email address",
+    "submitButton": "Subscribe",
+    "copyright": "© 2025 Aadarsh Navjyoti Vikas Sansthan. All rights reserved.",
+    "registration": "Registered under Rajasthan Societies Registration Act, 1958 (Reg. No. 161/Jodhpur/2014-15)"
+  }
+}
