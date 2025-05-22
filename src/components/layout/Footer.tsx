@@ -114,10 +114,10 @@ const Footer: React.FC = () => {
                   className="text-secondary-300 mr-2 flex-shrink-0"
                 />
                 <a
-                  href="mailto:info@navjyotivikas.org"
+                  href="mailto:adarshnavjyoti81@gmail.com"
                   className="text-primary-100 hover:text-white transition-colors"
                 >
-                  info@navjyotivikas.org
+                  adarshnavjyoti81@gmail.com
                 </a>
               </li>
               <li className="flex items-center">
@@ -129,7 +129,7 @@ const Footer: React.FC = () => {
                   href="tel:+911234567890"
                   className="text-primary-100 hover:text-white transition-colors"
                 >
-                  +91-1234567890
+                  +91-8005581974
                 </a>
               </li>
             </ul>
