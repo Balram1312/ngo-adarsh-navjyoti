@@ -14,7 +14,7 @@ const Gallery: React.FC = () => {
       transition={{ duration: 0.5 }}
     >
       <div
-        className="pt-20 bg-contain bg-center bg-no-repeat"
+        className="pt-20 bg-fit bg-center bg-no-repeat"
         style={{
           backgroundImage: 'url("./gallery_images/image3.jpg")',
           backgroundColor: "rgba(0, 0, 0, 0.5)",
