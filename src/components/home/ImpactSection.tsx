@@ -34,13 +34,13 @@ const ImpactSection: React.FC = () => {
       color: "bg-accent-100 text-accent-700",
     },
     {
-      icon: Heart,
+      icon: Users,
       title: t("home.impactWomenEmpowerment"),
       text: t("home.impactWomenEmpowermentText"),
       color: "bg-secondary-100 text-secondary-700",
     },
     {
-      icon: Users,
+      icon: Heart,
       title: t("home.impactSocialMedicalServices"),
       text: t("home.impactSocialMedicalServicesText"),
       color: "bg-primary-100 text-primary-700",
